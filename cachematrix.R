@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## makeCacheMatrix() creates an object containing matrix and its inverse
+## cacheSolve() creates the matrix inverse if not already present
+##              otherwise returns the cached version
 
 ## Function creates an object with 4 methods
 ##      set() - sets object's internal matrix or creates an empty one by default
